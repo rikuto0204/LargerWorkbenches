@@ -1,0 +1,29 @@
+/**
+ * itemGroup.tabLargerWorkbenches=
+ *
+ * tile.workbench.0.name=
+ * tile.workbench.1.name=
+ * tile.workbench.2.name=
+ * tile.workbench.3.name=
+ * tile.workbench.4.name=
+ * tile.workbench.5.name=
+ * tile.autoWorkbench.0.name=
+ * tile.autoWorkbench.1.name=
+ * tile.autoWorkbench.2.name=
+ * tile.autoWorkbench.3.name=
+ * tile.autoWorkbench.4.name=
+ * tile.autoWorkbench.5.name=
+ *
+ * crafting.large.tier0=
+ * crafting.large.tier1=
+ * crafting.large.tier2=
+ * crafting.large.tier3=
+ * crafting.large.tier4=
+ * crafting.large.tier5=
+ * crafting.large.shapeless.tier0=
+ * crafting.large.shapeless.tier1=
+ * crafting.large.shapeless.tier2=
+ * crafting.large.shapeless.tier3=
+ * crafting.large.shapeless.tier4=
+ * crafting.large.shapeless.tier5=
+ */
