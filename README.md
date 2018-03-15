@@ -3,7 +3,7 @@
 This mod adds some workbenches which can do more than 3x3 crafting.
 
 ----
-## MineTweaker, CraftTweaker
+## MineTweaker
 ### レシピの追加 AddRecipe
 * 定型レシピ **ShapedRecipe**<br>
 `mods.larger_workbenches.LargeCrafting.addShaped(<output>, [[<input>, <input>...], [<input>, <input>...], [<input>, <input>...]...]);`
